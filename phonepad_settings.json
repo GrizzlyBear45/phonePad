@@ -1,0 +1,27 @@
+{
+  "buttons": {
+    "A": "space",
+    "B": "e",
+    "X": "r",
+    "Y": "f",
+    "LB": "q",
+    "RB": "tab",
+    "LT": "mouse_right",
+    "RT": "mouse_left",
+    "UP": "up",
+    "DOWN": "down",
+    "LEFT": "left",
+    "RIGHT": "right",
+    "START": "return",
+    "SELECT": "escape"
+  },
+  "left_stick": {
+    "up": "w",
+    "down": "s",
+    "left": "a",
+    "right": "d"
+  },
+  "stick_threshold": 0.35,
+  "mouse_speed": 18.0,
+  "custom": []
+}
